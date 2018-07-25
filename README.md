@@ -8,6 +8,8 @@
 
 
 ### Robotics
+#### People
+- http://raffaello.name/
 #### Simulation
 - http://gazebosim.org/
 
